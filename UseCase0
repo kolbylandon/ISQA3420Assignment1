@@ -2,12 +2,17 @@
 |USE CASE 0                                                       |
 |-----------------------------------------------------------------|
 |                                                                 |
-|Name:                                                            |
+|Title:                                                           |
 |-----------------------------------------------------------------|
 |Determin License and Vulnerability Information                   |
 |-----------------------------------------------------------------|
 |                                                                 |
-|Purpose:                                                         |
+|Primary Actor:                                                   |
+|-----------------------------------------------------------------|
+|Corporate Manager                                                |
+|-----------------------------------------------------------------|
+|                                                                 |
+|Goal in Context:                                                 |
 |-----------------------------------------------------------------|
 |The corporate manager is able to determin license and            |
 |vulnerability information from provided project information      |
