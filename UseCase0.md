@@ -4,7 +4,7 @@
 |                                                                 |
 |Title:                                                           |
 |-----------------------------------------------------------------|
-|Determin License and Vulnerability Information                   |
+|Determine License and Vulnerability Information for a software project                 |
 |-----------------------------------------------------------------|
 |                                                                 |
 |Primary Actor:                                                   |
@@ -14,7 +14,7 @@
 |                                                                 |
 |Goal in Context:                                                 |
 |-----------------------------------------------------------------|
-|The corporate manager is able to determin license and            |
+|The corporate manager is able to determine license and            |
 |vulnerability information from provided project information      |
 |-----------------------------------------------------------------|
 |                                                                 |
@@ -30,7 +30,7 @@
 |                                                                 |
 |Preconditions:                                                   |
 |-----------------------------------------------------------------|
-|*Relevant file/package information is in the SPDX database       |
+|*Relevant file/package information is in the results DB       |
 |*Proper project information has been provided                    |
 |-----------------------------------------------------------------|
 |                                                                 |
