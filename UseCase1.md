@@ -1,10 +1,10 @@
 |-----------------------------------------------------------------|
-|USE CASE 0                                                       |
+|USE CASE 1                                                       |
 |-----------------------------------------------------------------|
 |                                                                 |
 |Title:                                                           |
 |-----------------------------------------------------------------|
-|Determin License and Vulnerability Information                   |
+|Change Lisence Information                                       |
 |-----------------------------------------------------------------|
 |                                                                 |
 |Primary Actor:                                                   |
@@ -14,40 +14,39 @@
 |                                                                 |
 |Goal in Context:                                                 |
 |-----------------------------------------------------------------|
-|The corporate manager is able to determin license and            |
-|vulnerability information from provided project information      |
+|The corporate manager is able to change the information about
+|current licenses 
 |-----------------------------------------------------------------|
 |                                                                 |
 |Stakeholders:                                                    |
 |-----------------------------------------------------------------|
-|*Corporate Manager: To receive clear and relevant project        |
-|information                                                      |
-|*Corporate Developer: To provide the relevant file/package level |
-|information                                                      |
+|*Corporate Manager: To change information based on the current   |
+|license information                                              |
 |*Project Owner: To clearly understand corporate manager decisions|
-|to green/red light a project                                     |
+|in the changes to the stored information                         |
 |-----------------------------------------------------------------|
 |                                                                 |
 |Preconditions:                                                   |
 |-----------------------------------------------------------------|
-|*Relevant file/package information is in the SPDX database       |
-|*Proper project information has been provided                    |
+|*Up to date information known by the manager                     |
+|*Proper current license information has been provided to         |
+|management                                                       |
 |-----------------------------------------------------------------|
 |                                                                 |
 |Main Success Scenario:                                           |
 |-----------------------------------------------------------------|
-|Corporate manager receives accurate license and vulnerability    |
-|information for the requested project packages                   |
+|Corporate manager receives accurate license information and      |
+|accurately inputs it into the repository                         |
 |-----------------------------------------------------------------|
 |                                                                 |
 |Failed End Conditions:                                           |
 |-----------------------------------------------------------------|
-|Corporate manager receives inaccurate or invalid license and     |
-|vulnerability information for the requested project packages     |
+|Corporate manager receives inaccurate license information and    |
+|inputs the information incorrectly                               |
 |-----------------------------------------------------------------|
 |                                                                 |
 |Trigger:                                                         |
 |-----------------------------------------------------------------|
-|Corporate manager uploads or identifies project information to   | 
-|which license and vulnerability information is provided          |
+|Corporate manager uploads or identifies changes to license       |
+|information that is needed to be changed in the repository       |
 |-----------------------------------------------------------------|
