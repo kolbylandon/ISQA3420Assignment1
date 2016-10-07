@@ -1,5 +1,9 @@
 |-----------------------------------------------------------------|
-|USE CASE 2                                                       |
+|USE CASE 2 (Need a new use case)                            |
+
+Request Policy Information either Dev. or Manager 
+Upload new software package for license and vulnerability scanning 
+
 |-----------------------------------------------------------------|
 |                                                                 |
 |Title:                                                           |
