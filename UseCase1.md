@@ -4,7 +4,7 @@
 |                                                                 |
 |Title:                                                           |
 |-----------------------------------------------------------------|
-|Change Lisence Information                                       |
+|Change License and Vulnerability Policy Information                                       |
 |-----------------------------------------------------------------|
 |                                                                 |
 |Primary Actor:                                                   |
@@ -15,7 +15,7 @@
 |Goal in Context:                                                 |
 |-----------------------------------------------------------------|
 |The corporate manager is able to change the information about
-|current licenses 
+|current license and vulnerability policies
 |-----------------------------------------------------------------|
 |                                                                 |
 |Stakeholders:                                                    |
