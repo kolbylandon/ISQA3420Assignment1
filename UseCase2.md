@@ -1,56 +1,36 @@
-|-----------------------------------------------------------------|
-|USE CASE 2 (Need a new use case)                            |
+USE CASE 2
 
 Request Policy Information either Dev. or Manager 
 Upload new software package for license and vulnerability scanning 
 
-|-----------------------------------------------------------------|
-|                                                                 |
-|Title:                                                           |
-|-----------------------------------------------------------------|
-|Deletion of the results in the Results Store                     |
-|-----------------------------------------------------------------|
-|                                                                 |
-|Primary Actor:                                                   |
-|-----------------------------------------------------------------|
-|Corporate Manager                                                |
-|-----------------------------------------------------------------|
-|                                                                 |
-|Goal in Context:                                                 |
-|-----------------------------------------------------------------|
-|The corporate manager is able to delete results of the Results   |
-|Store when the results are unnecessary, such as duplication of   |
-|information, or the Results Store is approaching capacity        |
-|-----------------------------------------------------------------|
-|                                                                 |
-|Stakeholders:                                                    |
-|-----------------------------------------------------------------|
-|*Corporate Manager: To delete unnecessary records in the Results |
-|Store                                                            |
-|*Project Owner: To clearly understand when it would be necessary |
-|to allow the Manager to delete records                           |
-|-----------------------------------------------------------------|
-|                                                                 |
-|Preconditions:                                                   |
-|-----------------------------------------------------------------|
-|*Understand what is unnecessary information                      |
-|*Proper acceptance from the owner to delete information          |
-|-----------------------------------------------------------------|
-|                                                                 |
-|Main Success Scenario:                                           |
-|-----------------------------------------------------------------|
-|Corporate manager deletes results after the proper evaluation of |
-|the information in the Results Store                             |
-|-----------------------------------------------------------------|
-|                                                                 |
-|Failed End Conditions:                                           |
-|-----------------------------------------------------------------|
-|Corporate manager deletes valuable and useful information that   |
-|has not been authorized for deletion                             |
-|-----------------------------------------------------------------|
-|                                                                 |
-|Trigger:                                                         |
-|-----------------------------------------------------------------|
-|Corporate manager evaluates the results from the Results Store   | 
-|and the information is deemed unnecessary and ready for deletion |
-|-----------------------------------------------------------------|
+
+Title:
+Request Policy Information
+
+Primary Actor:
+Developer
+
+Goal in Context:              
+The Developer Requests Policy Information and recieves accurate results
+
+Stakeholders:
+<ul>
+  <li>Corporate Developer: To recieve clear and accurate request information</li>
+  <li>Corporate Manager: To give clear instruction to the corporate developer </li>
+  <li>Project Owner: To clearly understand corporate developer decisions in the requests of the stored information</li>
+</ul> 
+
+Preconditions:
+<ul>
+  <li>Up to date information in the Policy Repository</li>
+  <li>Clear and concise requests made by the developer</li>
+</ul> 
+
+Main Success Scenario:
+The developer requests the policy information and recieves accurate information regarding the policy from the Policy Repository
+
+Failed End Conditions:
+The developer requests the policy information and recieves inaccurate information regarding policies
+
+Trigger:
+The developer requests policy information from the Policy Repository
