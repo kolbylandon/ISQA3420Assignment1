@@ -1,9 +1,11 @@
 USE CASE 1
 Title: Change License and Vulnerability Policy Information
 
-Primary Actor:Corporate Manager
+Primary Actor: 
+Corporate Manager
 
-Goal in Context: The corporate manager is able to change the information about current license and vulnerability policies
+Goal in Context: 
+The corporate manager is able to change the information about current license and vulnerability policies
 
 Stakeholders:
 <ul>
