@@ -10,7 +10,7 @@ Processes
 <li>Evaluate Results-Employee evaluates the results</li>
 <li>Deletion of Results-Deletion of results whe the store is too full</li>
 <li>Change of Licese Information-Changes made to current licenses</li>
-
+</ul>
 Data Flows
 <ul>
 <li>Software Package-Package of software to be scanned and stored</li>
