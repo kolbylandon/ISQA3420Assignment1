@@ -1,17 +1,5 @@
-<h1>Executive Summary</h1>
+Executive Summary 
 
-Two Paragraphs -- 
+We need a system for Open Source Software intake because we need to check the license policies so we do not use a piece of software illegally. Having a repository of policies where employees can request information will stop illegal, even if it wasn't on purpose and just an oversight, usage of software. Depending on the Open Source Software License (Binary-only, Copylefg, Permissive, ect.), that allows the user what they can and cannot do with the software and code. Developers go to the Internet to get software because there is a lot of free software available to use, although before developers using free software from the Internet must make sure that they know the license type of the software they procure. Every software that is used, either on a personal or organizational level has vulnerabilities. A way to check for the known vulnerabilities of software is through NIST.
 
-The first paragraph is about why we need a system for OSS intake. Reasons are that developers go to the Internet to procure software. As a result they bring that software into the organization. In doing so, they are bringing in published vulnerabilities and licences to which the organization must attend. 
-
-The second paragraph is about the pragmatic working of the system --> really an overview of the DFD -- which you've done. 
-
-
-
-The Dataflow Diagram for the company is for the storage of the licenses that the company holds as well as the
-steps and processes to change the license information as well as delete the results of checking to see if they
-have a license for a project. Changes that would result in deletion would come from management if given 
-permission from ownership to make the changes. Developers can ask for information or changes to be made, but 
-cannot change the information by themselves.The potential open source communities that would support this project 
-would be Linux. Linux provides an operating system for servers that is used by many companies including some large 
-corporations.
+The Dataflow Diagram for the company is for the storage of the licenses that the company holds as well as the steps and processes to change the license information as well as delete the results of checking to see if they have a license for a project. Changes that would result in deletion would come from management if given permission from ownership to make the changes. Developers can ask for information or changes to be made, but cannot change the information by themselves.The potential open source communities that would support this project would be Linux. Linux provides an operating system for servers that is used by many companies including some large corporations.
