@@ -1,5 +1,6 @@
 USE CASE 1
-Title: Change License and Vulnerability Policy Information
+Title: 
+Change License and Vulnerability Policy Information
 
 Primary Actor: 
 Corporate Manager
