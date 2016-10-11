@@ -16,7 +16,7 @@ Stakeholders:
   <li>Project Owner: To clearly understand corporate manager decisions to green/red light a project</li>                                 </ul>
 Preconditions:
 <ul>
-  <li>Relevant file/package information is in the results DB</li>
+  <li>Relevant file/package information is in the results database</li>
   <li>Proper project information has been provided</li>
 </ul>
 Main Success Scenario:
