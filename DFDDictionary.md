@@ -1,7 +1,4 @@
-$ git config --global core.whitespace \
-    trailing-space,space-before-tab,indent-with-non-tab
-
-Entities
+Entities\n
 *Developer-A member of the Developer class of employee 
 *Manager-A member of the management class of employee
 
