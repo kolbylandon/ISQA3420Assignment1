@@ -1,6 +1,7 @@
-Entities\s\s
-*Developer-A member of the Developer class of employee\s\s
-*Manager-A member of the management class of employee\s\s
+Entities
+<ul>
+<li>Developer-A member of the Developer class of employee</li>
+<li>Manager-A member of the management class of employee</li>
 
 Processes
 *Manage Software Package for License and Vulnerability-Scans the License Repository, then sends the results to the Results Store
